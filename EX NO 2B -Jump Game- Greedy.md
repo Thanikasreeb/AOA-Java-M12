@@ -45,11 +45,6 @@ Program to implement Reverse a String
 Developed by: Thanika Sree B
 Register Number: 212222100055 
 */
-/*
-Program to implement Reverse a String
-Developed by: R.JAYASREE
-Register Number: 212223040074 
-*/
 
 import java.util.Scanner;
 
