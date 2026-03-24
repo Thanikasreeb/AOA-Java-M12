@@ -1,5 +1,5 @@
 
-# EX 1C Job Sequencing using Greedy Approach
+# EX 2C Job Sequencing using Greedy Approach
 
 ## AIM:
 To write a Java program to for given constraints.
